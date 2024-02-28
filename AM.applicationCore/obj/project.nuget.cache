@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fIyvfrkxfHyATsrIuEEeAHGZVJuh0RzFoSVWVbhQsqCLTKOKruWF2Ug7pb/Qn0rL4A4XkugutSbSlTvQSSMHxg==",
+  "dgSpecHash": "hYppnl1LZV06epPci9jXtr20SVGkEu1bH+X2hpuYtpYlKX/BbINjWQyzoWedWelqTBrqJ3iV/PSYufkAi4rLxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BAZINFO\\Desktop\\classroom\\S2\\.Net\\AirportManagement\\AM.applicationCore\\AM.applicationCore.csproj",
+  "projectFilePath": "C:\\Users\\BAZINFO\\Desktop\\classroom\\S2\\.Net\\BD\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

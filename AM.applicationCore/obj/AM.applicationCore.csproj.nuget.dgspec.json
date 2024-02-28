@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BAZINFO\\Desktop\\classroom\\S2\\.Net\\AirportManagement\\AM.applicationCore\\AM.applicationCore.csproj": {}
+    "C:\\Users\\BAZINFO\\Desktop\\classroom\\S2\\.Net\\BD\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BAZINFO\\Desktop\\classroom\\S2\\.Net\\AirportManagement\\AM.applicationCore\\AM.applicationCore.csproj": {
+    "C:\\Users\\BAZINFO\\Desktop\\classroom\\S2\\.Net\\BD\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BAZINFO\\Desktop\\classroom\\S2\\.Net\\AirportManagement\\AM.applicationCore\\AM.applicationCore.csproj",
-        "projectName": "AM.applicationCore",
-        "projectPath": "C:\\Users\\BAZINFO\\Desktop\\classroom\\S2\\.Net\\AirportManagement\\AM.applicationCore\\AM.applicationCore.csproj",
+        "projectUniqueName": "C:\\Users\\BAZINFO\\Desktop\\classroom\\S2\\.Net\\BD\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
+        "projectName": "AM.ApplicationCore",
+        "projectPath": "C:\\Users\\BAZINFO\\Desktop\\classroom\\S2\\.Net\\BD\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
         "packagesPath": "C:\\Users\\BAZINFO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BAZINFO\\Desktop\\classroom\\S2\\.Net\\AirportManagement\\AM.applicationCore\\obj\\",
+        "outputPath": "C:\\Users\\BAZINFO\\Desktop\\classroom\\S2\\.Net\\BD\\AirportManagement\\AM.ApplicationCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BAZINFO\\AppData\\Roaming\\NuGet\\NuGet.Config",
