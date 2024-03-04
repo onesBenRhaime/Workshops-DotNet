@@ -85,3 +85,4 @@ C:\Users\BAZINFO\Desktop\classroom\S2\.Net\BD\AirportManagement\AM.UI.Console\bi
 C:\Users\BAZINFO\Desktop\classroom\S2\.Net\BD\AirportManagement\AM.UI.Console\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
 C:\Users\BAZINFO\Desktop\classroom\S2\.Net\BD\AirportManagement\AM.UI.Console\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
 C:\Users\BAZINFO\Desktop\classroom\S2\.Net\BD\AirportManagement\AM.UI.Console\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\BD\AirportManagement\AM.UI.Console\obj\Debug\net6.0\AM.UI.Console.sourcelink.json

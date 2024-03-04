@@ -44,3 +44,4 @@ C:\Users\BAZINFO\Desktop\classroom\S2\.Net\BD\AirportManagement\AM.ApplicationCo
 C:\Users\BAZINFO\Desktop\classroom\S2\.Net\BD\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\refint\AM.ApplicationCore.dll
 C:\Users\BAZINFO\Desktop\classroom\S2\.Net\BD\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.pdb
 C:\Users\BAZINFO\Desktop\classroom\S2\.Net\BD\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\ref\AM.ApplicationCore.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\BD\AirportManagement\AM.ApplicationCore\obj\Debug\net6.0\AM.ApplicationCore.sourcelink.json
