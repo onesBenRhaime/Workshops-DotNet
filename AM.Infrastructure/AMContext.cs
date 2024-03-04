@@ -1,4 +1,5 @@
 ﻿using AM.ApplicationCore.Domain;
+using AM.Infrastructure.Configurations;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -27,6 +28,13 @@ namespace AM.Infrastructure
                                     );        
             base.OnConfiguring(optionsBuilder);
 
+        }
+        //Fluent API
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.ApplyConfiguration(new PlaneConfig());
+            modelBuilder.ApplyConfiguration(new FlightConfig());
+            base.OnModelCreating(modelBuilder);
         }
     }
 }
